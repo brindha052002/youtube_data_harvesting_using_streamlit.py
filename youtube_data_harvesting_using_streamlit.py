@@ -14,7 +14,7 @@ st.set_page_config(page_title= "Youtube Data Harvesting and Warehousing | BRINDH
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This app is created by *Akash Jha!*"""})
+                   menu_items={'About': """# This app is created by *BRINDHA*"""})
 
 # CREATING OPTION MENU
 with st.sidebar:
